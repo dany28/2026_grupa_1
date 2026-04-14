@@ -3,4 +3,4 @@ Projekt repozytorium dla grupy 1
 
 ## Opis projektu
 
-Projekt testowy dla GitHub
+Projekt testowy dla GitHub, służący pokazaniu jego możliwości
